@@ -1,4 +1,4 @@
-# 
+# Personalizado dex liquidity bot preajustes para Mac OS | Avanzado dex liquidity bot preajustes para PC Windows. Con limitación de velocidad y seguimiento de tendencia — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
